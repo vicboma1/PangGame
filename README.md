@@ -1,4 +1,4 @@
-# Pang Game
+# Pang Game - Clone / WIP
 this is a clone from scratch
 
 
