@@ -1,7 +1,8 @@
 # Pang Game - Clone / WIP
-this is a clone from scratch
+This is a clone from scratch
 
-
+## Map Select
+![](https://raw.githubusercontent.com/vicboma1/PangGame/master/assets/SelectMap.gif)
 
 @Author: Victor Bolinches
 
