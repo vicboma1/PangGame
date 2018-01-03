@@ -88,5 +88,4 @@ Mode      : Two-player
 
 @Author: Victor Bolinches
 @Author: vicboma1
-
-# 
+Twitter: @vicboma1
