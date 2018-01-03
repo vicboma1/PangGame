@@ -11,6 +11,9 @@ This is a clone from scratch
 * [City]()
   * [Level]()
 * [Miscellaneous]()
+  * [Arcade]()
+  * [PCB]()
+  * [Controllers]()
 
 
 ## Bios
@@ -47,7 +50,14 @@ This is a clone from scratch
 
 ## Miscellaneous
 
-![]()
+### Arcade Cabinet
+![](https://github.com/vicboma1/PangGame/raw/master/assets/2799327_1_l.jpg)
+
+### PCB
+![](https://github.com/vicboma1/PangGame/blob/master/assets/FWnEv-2.jpg)
+
+### Controllers
+![](https://github.com/vicboma1/PangGame/blob/master/assets/pang.png)
 
 @Author: Victor Bolinches
 
