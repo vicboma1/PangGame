@@ -1,6 +1,18 @@
 # Pang Game - Clone / WIP
 This is a clone from scratch
 
+
+### Intro
+* [Bios]()
+* [License]()
+* [Ranking]()
+* [Intro]()
+* [Map Select]()
+* [City]()
+  * [Level]()
+* [Miscellaneous]()
+
+
 ## Bios
 
 ## License
@@ -33,6 +45,9 @@ This is a clone from scratch
 * [MAYA]()
 * [EASTER ISLAND]()
 
+## Miscellaneous
+
+![]()
 
 @Author: Victor Bolinches
 
