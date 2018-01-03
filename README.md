@@ -4,7 +4,7 @@ This is a clone from scratch
 ## Bios
 
 ## License
-![](https://raw.githubusercontent.com/vicboma1/PangGame/master/assets/License.png)
+![](https://raw.githubusercontent.com/vicboma1/PangGame/master/assets/Licen.png)
 
 ## Ranking
 
