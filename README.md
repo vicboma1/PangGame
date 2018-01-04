@@ -47,6 +47,7 @@ Mode      : Two-player
 ![](https://raw.githubusercontent.com/vicboma1/PangGame/master/assets/Licen.png)
 
 ## Ranking
+![](https://github.com/vicboma1/PangGame/blob/master/assets/RANKING.gif)
 
 ## Intro
 
