@@ -86,7 +86,7 @@ Mode      : Two-player
 
 ## References
 * [Technical Data](https://en.wikipedia.org/wiki/Pang_(video_game))
-
+* [The Brief History Of Pang (AKA Buster Bros)](https://www.youtube.com/watch?v=10F4criBTcU)
 
 @Author: Victor Bolinches
 @Author: vicboma1
