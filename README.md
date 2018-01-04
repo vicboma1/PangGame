@@ -1,4 +1,4 @@
-# Pang Game (World) - Clone / WIP
+# Pang Game (World) - Arcade Clone / WIP
 
 ```
 Note:
