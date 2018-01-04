@@ -19,8 +19,7 @@ and continue learning day to day.
 * [Ranking](https://github.com/vicboma1/PangGame/blob/master/README.md#ranking)
 * [Intro](https://github.com/vicboma1/PangGame/blob/master/README.md#intro-1)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
-* [City](https://github.com/vicboma1/PangGame/blob/master/README.md#city)
-  * [Level](https://github.com/vicboma1/PangGame/blob/master/README.md#level)
+* [Stages](https://github.com/vicboma1/PangGame/blob/master/README.md#stages)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
   * [Arcade](https://github.com/vicboma1/PangGame/blob/master/README.md#arcade)
   * [PCB](https://github.com/vicboma1/PangGame/blob/master/README.md#pcb)
@@ -30,6 +29,7 @@ and continue learning day to day.
 ## Technical data
 
 ```
+Name      : Pang | Pomping World | ポンピング・ワールド | Ponpingu Wārudo | Buster Bros
 Developer : Mitchell
 Publisher : JP/EU: Mitchell | NA: Capcom
 Director  : Yoshiki Okamoto
@@ -54,9 +54,7 @@ Mode      : Two-player
 ## Map Select
 ![](https://raw.githubusercontent.com/vicboma1/PangGame/master/assets/SelectMap.gif)
 
-## City
-
-### Level
+## Stages
 * [MT.FUJI]()
 * [MT.KEIRIN]()
 * [EMERALD TEMPLE]()
