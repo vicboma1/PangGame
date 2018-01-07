@@ -35,7 +35,8 @@ Publisher : JP/EU: Mitchell | NA: Capcom
 Director  : Yoshiki Okamoto
 Designer  : Toshihiko Uda (NDA)
 Composer  : Tamayo Kawamoto
-Platform  : Arcade, TurboGrafx-CD, SNES, Game Boy, ZX Spectrum, Commodore 64, Amstrad CPC, Commodore Amiga, Atari ST, DOS...
+Platform  : Arcade, TurboGrafx-CD, SNES, Game Boy, ZX Spectrum, Commodore 64, Amstrad CPC, 
+            Commodore Amiga, Atari ST, DOS...
 Release	  : 1989
 Genre     : Arcade
 Mode      : Two-player
@@ -47,9 +48,20 @@ Mode      : Two-player
 ![](https://raw.githubusercontent.com/vicboma1/PangGame/master/assets/Licen.png)
 
 ## Ranking
+
+* Enumeration of the first 10 records
+* Score, Name and Stage description
+
 ![](https://github.com/vicboma1/PangGame/blob/master/assets/RANKING.gif)
 
 ## Intro
+
+* Animation (WIP)
+* Supports up to 9 credits
+* Menu "Push Start Button"
+* Flicker enterprise name
+
+![](https://github.com/vicboma1/PangGame/blob/master/assets/intro2.gif)
 
 ## Map Select
 
