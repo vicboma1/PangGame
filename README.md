@@ -60,6 +60,7 @@ Mode      : Two-player
 * Cities & Stages information
 * Navigation between forward and backward nodes without limit in Barcelona city
 * Cities visited with red node
+* Blinking vision arrow when selected the city
 
 ![](https://github.com/vicboma1/PangGame/blob/master/assets/spellDescription2.gif)
 
