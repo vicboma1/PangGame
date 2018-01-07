@@ -52,7 +52,16 @@ Mode      : Two-player
 ## Intro
 
 ## Map Select
-![](https://raw.githubusercontent.com/vicboma1/PangGame/master/assets/SelectMap.gif)
+
+* Countdown to 0 seconds
+* Sight arrow with white node
+* Travel plane between cities
+* Spelling description data 
+* Cities & Stages information
+* Navigation between forward and backward nodes without limit in Barcelona city
+* Cities visited with red node
+
+![](https://github.com/vicboma1/PangGame/blob/master/assets/spellDescription2.gif)
 
 ## Stages
 * [MT.FUJI]()
