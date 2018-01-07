@@ -18,6 +18,7 @@ and continue learning day to day.
 * [License](https://github.com/vicboma1/PangGame/blob/master/README.md#license)
 * [Ranking](https://github.com/vicboma1/PangGame/blob/master/README.md#ranking)
 * [Intro](https://github.com/vicboma1/PangGame/blob/master/README.md#intro-1)
+* [Players](https://github.com/vicboma1/PangGame/blob/master/README.md#players)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
 * [Stages](https://github.com/vicboma1/PangGame/blob/master/README.md#stages)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
@@ -62,6 +63,9 @@ Mode      : Two-player
 * Flicker enterprise name
 
 ![](https://github.com/vicboma1/PangGame/blob/master/assets/intro2.gif)
+
+## Players
+
 
 ## Map Select
 
