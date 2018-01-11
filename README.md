@@ -73,6 +73,8 @@ Mode      : Two-player
 * Stage
 * Wire
 
+![](https://github.com/vicboma1/PangGame/raw/master/assets/spriteP1.png)
+
 ## Wires
 
 * Single Arrow
