@@ -66,6 +66,19 @@ Mode      : Two-player
 
 ## Players
 
+* Left - Right
+* Up - Down (Stairs) (WIP)
+* Score
+* Lives
+* Stage
+* Wire
+
+## Wires
+
+* Single Arrow
+* Double Arrow
+* Power Ancle (WIP)
+* Vulcan  (WIP)
 
 ## Map Select
 
