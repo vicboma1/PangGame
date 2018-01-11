@@ -19,6 +19,7 @@ and continue learning day to day.
 * [Ranking](https://github.com/vicboma1/PangGame/blob/master/README.md#ranking)
 * [Intro](https://github.com/vicboma1/PangGame/blob/master/README.md#intro-1)
 * [Players](https://github.com/vicboma1/PangGame/blob/master/README.md#players)
+* [Wires](https://github.com/vicboma1/PangGame/blob/master/README.md#wires)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
 * [Stages](https://github.com/vicboma1/PangGame/blob/master/README.md#stages)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
@@ -81,6 +82,8 @@ Mode      : Two-player
 * Double Arrow
 * Power Ancle (WIP)
 * Vulcan  (WIP)
+
+![](https://github.com/vicboma1/PangGame/raw/master/assets/PowerUpsHud.gif)
 
 ## Map Select
 
