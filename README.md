@@ -81,7 +81,7 @@ Mode      : Two-player
 * Single Arrow
 * Double Arrow
 * Power Ancle 
-* Vulcan  (WIP)
+* [Vulcan](https://youtu.be/kNvfsLPoD0g) 
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/PowerUpsHud.gif)
 
