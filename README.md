@@ -134,8 +134,13 @@ Mode      : Two-player
 
 ## Stages
 
-* [MT.FUJI]()
-* [MT.KEIRIN]()
+* MT.FUJI
+
+* MT.KEIRIN
+   * Obj-0
+      * Stairs 
+      * Blocks
+
 * [EMERALD TEMPLE]()
 * [ANKOR WATT]()
 * [AUSTRALIA]()
