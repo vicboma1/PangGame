@@ -21,7 +21,9 @@ and continue learning day to day.
 * [Players](https://github.com/vicboma1/PangGame/blob/master/README.md#players)
 * [Wires](https://github.com/vicboma1/PangGame/blob/master/README.md#wires)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
+* [HUD](https://github.com/vicboma1/PangGame/blob/master/README.md#hud)
 * [Stages](https://github.com/vicboma1/PangGame/blob/master/README.md#stages)
+* [Bonus Stage](https://github.com/vicboma1/PangGame/blob/master/README.md#bonus-stage)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
   * [Arcade](https://github.com/vicboma1/PangGame/blob/master/README.md#arcade)
   * [PCB](https://github.com/vicboma1/PangGame/blob/master/README.md#pcb)
@@ -67,6 +69,8 @@ Mode      : Two-player
 
 ## Players
 
+* P1
+* P2 (WIP)
 * Left - Right
 * Up - Down (Stairs) (WIP)
 * Score
@@ -98,7 +102,24 @@ Mode      : Two-player
 
 ![](https://github.com/vicboma1/PangGame/blob/master/assets/spellDescription2.gif)
 
+## HUD 
+
+* P1
+* P2 (WIP)
+* Score
+* Lives
+* Stage
+* Wire
+* City
+* World - Level
+* Hi Score
+* Ready
+* Time Over
+* Timer
+  * Fonts Numerics (WIP)
+
 ## Stages
+
 * [MT.FUJI]()
 * [MT.KEIRIN]()
 * [EMERALD TEMPLE]()
@@ -115,6 +136,13 @@ Mode      : Two-player
 * [NEY YORK]()
 * [MAYA]()
 * [EASTER ISLAND]()
+
+## Bonus Stage
+
+* Time Bonus
+* Next Extends
+* Random Images
+  * Animations backgrounds (WIP)
 
 ## Miscellaneous
 
