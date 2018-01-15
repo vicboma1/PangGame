@@ -79,8 +79,8 @@ Mode      : Two-player
 ## Wires
 
 * [Single Arrow](https://youtu.be/Pna5vo2CjYg)
-* Double Arrow
-* Power Ancle 
+* [Double Arrow](https://youtu.be/c0dbKrCp4Xw)
+* [Power Ancle](https://youtu.be/vdmoUfphufM) 
 * [Vulcan](https://youtu.be/kNvfsLPoD0g) 
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/PowerUpsHud.gif)
