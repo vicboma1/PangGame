@@ -22,6 +22,7 @@ and continue learning day to day.
 * [Wires](https://github.com/vicboma1/PangGame/blob/master/README.md#wires)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
 * [HUD](https://github.com/vicboma1/PangGame/blob/master/README.md#hud)
+* [Overloads](https://github.com/vicboma1/PangGame/blob/master/README.md#overloads)
 * [Stages](https://github.com/vicboma1/PangGame/blob/master/README.md#stages)
 * [Bonus Stage](https://github.com/vicboma1/PangGame/blob/master/README.md#bonus-stage)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
@@ -113,10 +114,19 @@ Mode      : Two-player
 * City
 * World - Level
 * Hi Score
-* Ready
-* Time Over
 * Timer
   * Fonts Numerics (WIP)
+* Insert Coin blink
+* Press Start blink
+* Continue countDown
+* Rec Score name
+* Game Over!
+
+## Overloads
+
+* Ready
+* Time Over
+* Game Over
 
 ## Stages
 
