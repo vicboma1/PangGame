@@ -152,13 +152,28 @@ MT.FUJI (1)
     * BG Tile
       * Blocks { Fade Out | Statics }
 ```
-  
-* MT.KEIRIN
-  * BG Display
-  * OBJ (Sprites) 
-  * BG Tile
-     * Stairs 
-     * Blocks
+
+MT.KEIRIN (2)
+```  
+  4
+    * BG Display
+    * OBJ (Sprites)
+    * BG Tile
+      * Stairs
+      * Block static
+    
+  5
+    * BG Display
+    * OBJ (Sprites) 
+    * BG Tile
+      * Blocks Fade Out
+    
+  6
+    * BG Display
+    * OBJ (Sprites)
+    * BG Tile
+      * Blocks { Fade Out | Statics }
+```
 
 * [EMERALD TEMPLE]()
 * [ANKOR WATT]()
