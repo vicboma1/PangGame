@@ -123,11 +123,14 @@ Mode      : Two-player
 * Game Over!
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/hudContinue.gif)
+
 ## Overloads
 
 * Ready
 * Time Over
 * Game Over
+
+![](https://github.com/vicboma1/PangGame/raw/master/assets/GameOver.png)
 
 ## Stages
 
