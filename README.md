@@ -101,7 +101,7 @@ Mode      : Two-player
 * Cities visited with red node
 * Blinking vision arrow when selected the city
 
-![](https://github.com/vicboma1/PangGame/blob/master/assets/spellDescription2.gif)
+![](https://github.com/vicboma1/PangGame/raw/master/assets/spellDescription2.gif)
 
 ## HUD 
 
@@ -122,6 +122,7 @@ Mode      : Two-player
 * Rec Score name
 * Game Over!
 
+![](https://github.com/vicboma1/PangGame/raw/master/assets/hudContinue.gif)
 ## Overloads
 
 * Ready
