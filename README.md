@@ -78,7 +78,7 @@ Mode      : Two-player
 
 ## Wires
 
-* Single Arrow
+* [Single Arrow](https://youtu.be/Pna5vo2CjYg)
 * Double Arrow
 * Power Ancle 
 * [Vulcan](https://youtu.be/kNvfsLPoD0g) 
