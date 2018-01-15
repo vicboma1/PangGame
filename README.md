@@ -134,12 +134,31 @@ Mode      : Two-player
 
 ## Stages
 
-* MT.FUJI
-
+MT.FUJI (1) 
+```  
+  1
+    * BG Display
+    * OBJ (Sprites) 
+    
+  2
+    * BG Display
+    * OBJ (Sprites) 
+    * BG Tile
+      * Blocks Fade Out
+    
+  3
+    * BG Display
+    * OBJ (Sprites)
+    * BG Tile
+      * Blocks { Fade Out | Statics }
+```
+  
 * MT.KEIRIN
-   * Obj-0
-      * Stairs 
-      * Blocks
+  * BG Display
+  * OBJ (Sprites) 
+  * BG Tile
+     * Stairs 
+     * Blocks
 
 * [EMERALD TEMPLE]()
 * [ANKOR WATT]()
