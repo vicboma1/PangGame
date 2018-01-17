@@ -20,6 +20,7 @@ and continue learning day to day.
 * [Intro](https://github.com/vicboma1/PangGame/blob/master/README.md#intro-1)
 * [Players](https://github.com/vicboma1/PangGame/blob/master/README.md#players)
 * [Wires](https://github.com/vicboma1/PangGame/blob/master/README.md#wires)
+* [Blocks](https://github.com/vicboma1/PangGame/blob/master/README.md#blocks)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
 * [HUD](https://github.com/vicboma1/PangGame/blob/master/README.md#hud)
 * [Overloads](https://github.com/vicboma1/PangGame/blob/master/README.md#overloads)
@@ -89,6 +90,11 @@ Mode      : Two-player
 * [Vulcan](https://youtu.be/kNvfsLPoD0g) 
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/PowerUpsHud.gif)
+
+## Blocks
+
+* [Blue Fade Out](https://youtu.be/RKO0Qd1V1FE)
+* [Pink Fade Out | Fixed ](https://youtu.be/29oOrQJIR3o)
 
 ## Map Select
 
