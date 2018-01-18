@@ -95,7 +95,7 @@ Mode      : Two-player
 
 * [Blue Fade Out](https://youtu.be/RKO0Qd1V1FE)
 * [Pink Fade Out | Fixed ](https://youtu.be/29oOrQJIR3o)
-* Yelow Stairs
+* Yelow Ladders
 * Yellow Block Fixed
 
 ## Map Select
