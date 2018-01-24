@@ -74,7 +74,7 @@ Mode      : Two-player
 * P1
 * P2 (WIP)
 * Left - Right
-* Up - Down (Stairs) (WIP)
+* Up - Down (Ladders) (WIP)
 * Score
 * Lives
 * Stage
