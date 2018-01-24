@@ -98,6 +98,8 @@ Mode      : Two-player
 * Yelow Ladders
 * Yellow Block Fixed
 
+![](https://github.com/vicboma1/PangGame/raw/master/assets/ladder_05.gif)
+
 ## Map Select
 
 * Countdown to 0 seconds
