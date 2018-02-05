@@ -93,8 +93,17 @@ Mode      : Two-player
 
 ## Blocks
 
+Horizontal
+
 * [Blue Fade Out](https://youtu.be/RKO0Qd1V1FE)
 * [Pink Fade Out | Fixed ](https://youtu.be/29oOrQJIR3o)
+
+Vertical
+
+* [Blue Fade Out](https://youtu.be/BKVPup4ARZs)
+
+Others
+
 * Yelow Ladders
 * Yellow Block Fixed
 
@@ -169,14 +178,14 @@ MT.KEIRIN (2)
     * BG Display
     * OBJ (Sprites)
     * BG Tile
-      * Stairs
+      * Ladders
       * Block static
     
   5
     * BG Display
     * OBJ (Sprites) 
     * BG Tile
-      * Blocks Fade Out
+      * Blocks Fade Out | Vertical
     
   6
     * BG Display
