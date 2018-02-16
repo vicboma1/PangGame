@@ -258,6 +258,7 @@ Based on parabolic movement with environmental factors
 * Acc (WIP)
 * Curve renderer (WIP)
 * Position
+* Lerp (Based on Bresenham algorithm)
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion.gif)
 
@@ -277,6 +278,7 @@ Based on parabolic movement with environmental factors
 ## References
 * [Technical Data](https://en.wikipedia.org/wiki/Pang_(video_game))
 * [The Brief History Of Pang (AKA Buster Bros)](https://www.youtube.com/watch?v=10F4criBTcU)
+* [Bresenham algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
 
 @Author: [Victor Bolinches](https://www.linkedin.com/in/victorbolinches)
 
