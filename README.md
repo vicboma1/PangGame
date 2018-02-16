@@ -27,6 +27,8 @@ and continue learning day to day.
 * [Stages](https://github.com/vicboma1/PangGame/blob/master/README.md#stages)
 * [Bonus Stage](https://github.com/vicboma1/PangGame/blob/master/README.md#bonus-stage)
 * [Physics Engine 2D](https://github.com/vicboma1/PangGame/blob/master/README.md#physics-engine-2d)
+  * [Collision](https://github.com/vicboma1/PangGame#collision)
+  * [Parabolic Motion](https://github.com/vicboma1/PangGame#parabolic-motion)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
   * [Arcade](https://github.com/vicboma1/PangGame/blob/master/README.md#arcade)
   * [PCB](https://github.com/vicboma1/PangGame/blob/master/README.md#pcb)
