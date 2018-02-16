@@ -244,7 +244,8 @@ Based on parabolic movement with environmental factors
 * Y
 * Acc (WIP)
 
-![]()
+![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion.gif)
+
 
 ## Miscellaneous
 
