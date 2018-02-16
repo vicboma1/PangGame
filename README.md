@@ -219,11 +219,24 @@ MT.KEIRIN (2)
 
 ## Physics Engine 2D
 
+### Collision
+
+* Ground
+* Player [P1 - P2 (WIP)]
+* Enemies
+* Blocks
+* Left
+* Right
+* Top
+
+### Parabolic Motion
+
 Based on parabolic movement with environmental factors
 
-![](https://explorandolafisica.wikispaces.com/file/view/PARABOLICO.png/218658818/PARABOLICO.png)
+![](https://explorandolafisica.wikispaces.com/file/view/PARABOLICO.png)
 
-
+* Dir_H [ Left - Right]
+* Dir_V [ Top - Bottom]
 * Detla Time
 * Gravity 9.81 
 * vt
@@ -244,6 +257,7 @@ Based on parabolic movement with environmental factors
 * Y
 * Acc (WIP)
 * Curve renderer (WIP)
+* Position
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion.gif)
 
