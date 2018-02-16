@@ -221,7 +221,8 @@ MT.KEIRIN (2)
 
 Based on parabolic movement with environmental factors
 
-![]()
+![](https://explorandolafisica.wikispaces.com/file/view/PARABOLICO.png/218658818/PARABOLICO.png)
+
 
 * Detla Time
 * Gravity 9.81 
