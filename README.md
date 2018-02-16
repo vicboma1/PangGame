@@ -243,6 +243,7 @@ Based on parabolic movement with environmental factors
 * X
 * Y
 * Acc (WIP)
+* Curve renderer (WIP)
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion.gif)
 
