@@ -3,7 +3,7 @@
 ```
 Note:
 
-This is a independent game development clone from scratch without profits.
+This is an independent game development clone from scratch without profits.
 It is a small challenge for me to develop this game of my childhood.
 Out of respect, I will not publish the game code. 
 This page will act as a visual wiki of development.
@@ -26,6 +26,7 @@ and continue learning day to day.
 * [Overloads](https://github.com/vicboma1/PangGame/blob/master/README.md#overloads)
 * [Stages](https://github.com/vicboma1/PangGame/blob/master/README.md#stages)
 * [Bonus Stage](https://github.com/vicboma1/PangGame/blob/master/README.md#bonus-stage)
+* [Physics Engine 2D](https://github.com/vicboma1/PangGame/blob/master/README.md#physics-engine-2d)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
   * [Arcade](https://github.com/vicboma1/PangGame/blob/master/README.md#arcade)
   * [PCB](https://github.com/vicboma1/PangGame/blob/master/README.md#pcb)
@@ -215,6 +216,34 @@ MT.KEIRIN (2)
 * Next Extends
 * Random Images
   * Animations backgrounds (WIP)
+
+## Physics Engine 2D
+
+Based on parabolic movement with environmental factors
+
+![]()
+
+* Detla Time
+* Gravity 9.81 
+* vt
+* vti
+* x0
+* y0
+* Angle 
+* Vi
+* Viy
+* Vix
+* Vx
+* Vy
+* TyMax
+* yMax
+* TxMax
+* xMax
+* X
+* Y
+* Acc (WIP)
+
+![]()
 
 ## Miscellaneous
 
