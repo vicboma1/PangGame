@@ -259,7 +259,11 @@ Based on parabolic movement with environmental factors
 * Curve renderer (WIP)
 * Position
 * Lerp (Based on Bresenham algorithm)
-
+  * Linear
+  * Bicubic
+  * Spline (WIP)
+  * Stairstep (WIP - Digital Image definition)
+  
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion.gif)
 
 
