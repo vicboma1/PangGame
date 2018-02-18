@@ -241,6 +241,7 @@ Based on parabolic movement with environmental factors
 * Dir_V [ Top - Bottom]
 * Detla Time
 * Gravity 9.81 
+* Force
 * vt
 * vti
 * x0
