@@ -223,13 +223,9 @@ MT.KEIRIN (2)
 
 ### Collision
 
-* Ground
-* Player [P1 - P2 (WIP)]
-* Enemies
-* Blocks
-* Left
-* Right
-* Top
+* Rectangle
+* Circle
+* Poligon
 
 ### Parabolic Motion
 
@@ -258,7 +254,7 @@ Based on parabolic movement with environmental factors
 * xMax
 * X
 * Y
-* Acc (WIP)
+* Acc
 * Curve renderer (WIP)
 * Position
 * Lerp (Based on Bresenham algorithm)
