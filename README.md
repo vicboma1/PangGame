@@ -227,6 +227,8 @@ MT.KEIRIN (2)
 * Circle
 * Poligon
 
+### Newton's laws of motion
+
 ### Parabolic Motion
 
 Based on parabolic movement with environmental factors
@@ -255,7 +257,7 @@ Based on parabolic movement with environmental factors
 * X
 * Y
 * Acc
-* Curve renderer (WIP)
+* Curve renderer based on Pathing
 * Position
 * Lerp (Based on Bresenham algorithm)
   * Linear
