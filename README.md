@@ -227,7 +227,13 @@ MT.KEIRIN (2)
 * Circle
 * Poligon
 
-### Newton's laws of motion
+### Newton's laws of motion ( 3 laws)
+
+* In an inertial frame of reference, an object either remains at rest or continues to move at a constant velocity, unless acted upon by a force.
+
+* In an inertial reference frame, the vector sum of the forces F on an object is equal to the mass m of that object multiplied by the acceleration a of the object: F = ma
+
+* When one body exerts a force on a second body, the second body simultaneously exerts a force equal in magnitude and opposite in direction on the first body.
 
 ### Parabolic Motion
 
@@ -257,7 +263,7 @@ Based on parabolic movement with environmental factors
 * X
 * Y
 * Acc
-* Curve renderer based on Pathing
+* [Curve renderer based on Pathing](https://gaming.youtube.com/watch?v=YBGEAS9-3tc&feature=share)
 * Position
 * Lerp (Based on Bresenham algorithm)
   * Linear
@@ -265,7 +271,7 @@ Based on parabolic movement with environmental factors
   * Spline (WIP)
   * Stairstep (WIP - Digital Image definition)
   
-![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion.gif)
+![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion3.gif)
 
 
 ## Miscellaneous
