@@ -275,6 +275,8 @@ Based on parabolic movement with environmental factors
   
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion3.gif)
 
+![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion6.gif)
+
 ## Profiler
 
 * [Rendering more or less 300balls](https://www.youtube.com/watch?v=JVeJkJ5PGG0&feature=youtu.be)
