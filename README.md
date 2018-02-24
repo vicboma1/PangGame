@@ -21,6 +21,7 @@ and continue learning day to day.
 * [Players](https://github.com/vicboma1/PangGame/blob/master/README.md#players)
 * [Wires](https://github.com/vicboma1/PangGame/blob/master/README.md#wires)
 * [Blocks](https://github.com/vicboma1/PangGame/blob/master/README.md#blocks)
+* [Balls]()
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
 * [HUD](https://github.com/vicboma1/PangGame/blob/master/README.md#hud)
 * [Overloads](https://github.com/vicboma1/PangGame/blob/master/README.md#overloads)
