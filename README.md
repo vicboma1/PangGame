@@ -118,10 +118,8 @@ Others
 ## Balls
 
 * Colors [ Red | Green | Blue ]
-* Big
-* Large 
-* Medium
-* Small
+* Size [ Big | Large | Medium | Small ]
+* Explosion
 
 ## Map Select
 
