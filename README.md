@@ -21,7 +21,7 @@ and continue learning day to day.
 * [Players](https://github.com/vicboma1/PangGame/blob/master/README.md#players)
 * [Wires](https://github.com/vicboma1/PangGame/blob/master/README.md#wires)
 * [Blocks](https://github.com/vicboma1/PangGame/blob/master/README.md#blocks)
-* [Balls]()
+* [Balls](https://github.com/vicboma1/PangGame/blob/master/README.md#balls)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
 * [HUD](https://github.com/vicboma1/PangGame/blob/master/README.md#hud)
 * [Overloads](https://github.com/vicboma1/PangGame/blob/master/README.md#overloads)
@@ -114,6 +114,14 @@ Others
 * Yellow Block Fixed
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ladder_05.gif)
+
+## Balls
+
+* Colors [ Red | Green | Blue ]
+* Big
+* Large 
+* Medium
+* Small
 
 ## Map Select
 
