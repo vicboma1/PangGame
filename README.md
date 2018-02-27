@@ -121,8 +121,6 @@ Others
 * Size [ [Big](https://youtu.be/v4TbSKtIiak?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | Large | [Medium](https://youtu.be/cI3yMQajwCc?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Small](https://youtu.be/cbvAclaZ9bY?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) ]
 * Animation Explosion
 
-![](https://github.com/vicboma1/PangGame/raw/master/assets/ExplosionBallsAnimation.gif)
-
 ## Map Select
 
 * Countdown to 0 seconds
