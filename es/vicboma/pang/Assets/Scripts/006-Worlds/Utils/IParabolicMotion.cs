@@ -35,14 +35,12 @@ namespace Es.Vicboma.Pang.Worlds006.Utils
 		/// <returns>Vix m/s</returns>
 		float Vix();
 
-
 		/// <summary>
 		/// Tiempo altura max en Y
 		/// Vx = 0
 		/// </summary>
 		/// <returns>TYmax s</returns>
 		float TYmax(float t);
-
 
 		/// <summary>
 		/// Tiempo alcance max en x
