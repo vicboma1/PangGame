@@ -292,7 +292,7 @@ Based on parabolic movement with environmental factors
 * [01-03-2018 - Object Pooling Pattern w/ Clevers - 60FPS](https://youtu.be/rfbWTApXFwk)
 
 ## Code Behind
-* You can see the implementation of interface [IParabolicMotion](https://github.com/vicboma1/PangGame/blob/master/es/vicboma/pang/Assets/Scripts/006-Worlds/Utils/IParabolicMotion.cs)
+* You can see the implementation of interface [IParabolicMotion](https://github.com/vicboma1/PangGame/blob/master/es/vicboma/pang/Assets/Scripts/006-Worlds/Utils/IParabolicMotion.cs) (Not optimal for udpateXXX methods)
 
 ## Miscellaneous
 
