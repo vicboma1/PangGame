@@ -289,7 +289,11 @@ Based on parabolic movement with environmental factors
 
 * [21-02-2018 - Rendering more or less 300balls](https://www.youtube.com/watch?v=JVeJkJ5PGG0&feature=youtu.be)
 * [28-02-2018 - w/ Instances in RunTime - (48-54) FPS ](https://youtu.be/UA-WF9vm8es)
-* [01-03-2018 - Object Pooling Pattern w/ Clevers - 60FPS](https://youtu.be/rfbWTApXFwk)
+* [01-03-2018 - Object Pooling Pattern w/ Clevers - [60-150] FPS](https://youtu.be/rfbWTApXFwk)
+
+![](https://github.com/vicboma1/PangGame/raw/master/assets/ObjectPoolingClevers.gif)
+
+
 
 ## Code Behind
 * You can see the implementation of interface [IParabolicMotion](https://github.com/vicboma1/PangGame/blob/master/es/vicboma/pang/Assets/Scripts/006-Worlds/Utils/IParabolicMotion.cs) (Not optimal for udpateXXX methods)
