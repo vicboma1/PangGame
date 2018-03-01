@@ -289,7 +289,9 @@ Based on parabolic movement with environmental factors
 
 ## Profiler
 
-* [Rendering more or less 300balls](https://www.youtube.com/watch?v=JVeJkJ5PGG0&feature=youtu.be)
+* [21-02-2018 - Rendering more or less 300balls](https://www.youtube.com/watch?v=JVeJkJ5PGG0&feature=youtu.be)
+* [28-02-2018 - w/ Instances in RunTime - (48-54) FPS ](https://youtu.be/UA-WF9vm8es)
+* [01-03-2018 - Object Pooling Pattern w/ Clevers - 60FPS](https://youtu.be/rfbWTApXFwk)
 
 ## Miscellaneous
 
