@@ -89,7 +89,7 @@ Mode      : Two-player
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/spriteP1.png)
 
-## Wires
+## Wires 
 
 * [Single Arrow](https://youtu.be/Pna5vo2CjYg)
 * [Double Arrow](https://youtu.be/c0dbKrCp4Xw)
@@ -116,7 +116,7 @@ Others
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ladder_05.gif)
 
-## Balls
+## Balls 
 
 * Colors [ Red | Green | Blue ]
 * Size [ [Big](https://youtu.be/v4TbSKtIiak?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Large](https://www.youtube.com/watch?v=WwDLNYrgASA&index=5&list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Medium](https://youtu.be/cI3yMQajwCc?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Small](https://youtu.be/cbvAclaZ9bY?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) ]
