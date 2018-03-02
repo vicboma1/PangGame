@@ -289,7 +289,9 @@ Based on parabolic movement with environmental factors
 
 * [21-02-2018 - Rendering more or less 300balls](https://www.youtube.com/watch?v=JVeJkJ5PGG0&feature=youtu.be)
 * [28-02-2018 - w/ Instances in RunTime - (48-54) FPS ](https://youtu.be/UA-WF9vm8es)
-* [01-03-2018 - Object Pooling Pattern w/ Clevers - (60-150) FPS](https://youtu.be/rfbWTApXFwk)
+* [01-03-2018 - Object Pooling Pattern Manager Balls w/ Clevers - (60-150) FPS](https://youtu.be/rfbWTApXFwk)
+* [02-03-2018 - Object Pooling Pattern Single Arrow w/ Clevers - (60-155) FPS](https://youtu.be/VtU7vOQTSoA)
+* [02-03-2018 - Object Pooling Pattern Vulcan Gun - (60-164) FPS](https://youtu.be/Akbr0cJUkMU)
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ObjectPoolingClevers.gif)
 
