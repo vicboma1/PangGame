@@ -317,6 +317,7 @@ Based on parabolic movement with environmental factors
 * [Technical Data](https://en.wikipedia.org/wiki/Pang_(video_game))
 * [The Brief History Of Pang (AKA Buster Bros)](https://www.youtube.com/watch?v=10F4criBTcU)
 * [Bresenham algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
+* [Manual Mitchell Corp.](https://archive.org/details/pang-manual-1989)
 
 @Author: [Victor Bolinches](https://www.linkedin.com/in/victorbolinches)
 
