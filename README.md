@@ -291,6 +291,8 @@ Based on parabolic movement with environmental factors
 * [28-02-2018 - w/ Instances in RunTime - (48-54) FPS ](https://youtu.be/UA-WF9vm8es)
 * [01-03-2018 - Object Pooling Pattern Manager Balls w/ Clevers - 60FPS Top](https://youtu.be/rfbWTApXFwk)
 * [02-03-2018 - Object Pooling Pattern Single Arrow w/ Clevers - 60FPS Top](https://youtu.be/VtU7vOQTSoA)
+* [02-03-2018 - Lazy Object Pooling Pattern Double Arrow w/ Clevers - 60FPS Top](https://youtu.be/yRLtqJY1ACM)
+
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ObjectPoolingClevers.gif)
 
