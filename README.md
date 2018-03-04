@@ -306,12 +306,14 @@ Based on parabolic movement with environmental factors
 ### Arcade Cabinet
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/2799327_1_l.jpg)
 
-### PCB
-![](https://github.com/vicboma1/PangGame/blob/master/assets/FWnEv-2.jpg)
-
 ### Controllers
 ![](https://github.com/vicboma1/PangGame/blob/master/assets/pang.png)
 
+### PCB
+![](https://github.com/vicboma1/PangGame/blob/master/assets/FWnEv-2.jpg)
+
+### DIP 
+![](https://github.com/vicboma1/PangGame/blob/master/assets/pang-manual-1989_0000.jpg)
 
 ## References
 * [Technical Data](https://en.wikipedia.org/wiki/Pang_(video_game))
