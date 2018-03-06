@@ -293,7 +293,7 @@ Based on parabolic movement with environmental factors
 * [Object Pooling Pattern Single Arrow w/ Clevers - 60FPS Top](https://youtu.be/VtU7vOQTSoA)
 * [Lazy Object Pooling Pattern Double Arrow w/ Clevers - 60FPS Top](https://youtu.be/yRLtqJY1ACM)
 * [Object Pooling Pattern Ancle Gun - 75FPS TOP](https://youtu.be/WZQRrWmTqdE)
-
+* [Select PowerUp | Ancle - Double Arrow - Vulcan](https://youtu.be/oPt-hd5GKCI)
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ObjectPoolingClevers.gif)
 
 
