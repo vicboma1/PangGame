@@ -287,12 +287,12 @@ Based on parabolic movement with environmental factors
 
 ## Profiler
 
-* [21-02-2018 - Rendering more or less 300balls](https://www.youtube.com/watch?v=JVeJkJ5PGG0&feature=youtu.be)
-* [28-02-2018 - w/ Instances in RunTime - (48-54) FPS ](https://youtu.be/UA-WF9vm8es)
-* [01-03-2018 - Object Pooling Pattern Manager Balls w/ Clevers - 60FPS Top](https://youtu.be/rfbWTApXFwk)
-* [02-03-2018 - Object Pooling Pattern Single Arrow w/ Clevers - 60FPS Top](https://youtu.be/VtU7vOQTSoA)
-* [02-03-2018 - Lazy Object Pooling Pattern Double Arrow w/ Clevers - 60FPS Top](https://youtu.be/yRLtqJY1ACM)
-
+* [Rendering more or less 300balls](https://www.youtube.com/watch?v=JVeJkJ5PGG0&feature=youtu.be)
+* [w/ Instances in RunTime - (48-54) FPS ](https://youtu.be/UA-WF9vm8es)
+* [Object Pooling Pattern Manager Balls w/ Clevers - 60FPS Top](https://youtu.be/rfbWTApXFwk)
+* [Object Pooling Pattern Single Arrow w/ Clevers - 60FPS Top](https://youtu.be/VtU7vOQTSoA)
+* [Lazy Object Pooling Pattern Double Arrow w/ Clevers - 60FPS Top](https://youtu.be/yRLtqJY1ACM)
+* [Object Pooling Pattern Ancle Gun - 75FPS TOP](https://youtu.be/WZQRrWmTqdE)
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ObjectPoolingClevers.gif)
 
