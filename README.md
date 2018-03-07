@@ -22,6 +22,7 @@ and continue learning day to day.
 * [Wires](https://github.com/vicboma1/PangGame/blob/master/README.md#wires)
 * [Blocks](https://github.com/vicboma1/PangGame/blob/master/README.md#blocks)
 * [Balls](https://github.com/vicboma1/PangGame/blob/master/README.md#balls)
+* [PowerUps](https://github.com/vicboma1/PangGame/blob/master/README.md#powerups)
 * [Map Select](https://github.com/vicboma1/PangGame/blob/master/README.md#map-select)
 * [HUD](https://github.com/vicboma1/PangGame/blob/master/README.md#hud)
 * [Overloads](https://github.com/vicboma1/PangGame/blob/master/README.md#overloads)
@@ -121,6 +122,9 @@ Others
 * Colors [ Red | Green | Blue ]
 * Size [ [Big](https://youtu.be/v4TbSKtIiak?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Large](https://www.youtube.com/watch?v=WwDLNYrgASA&index=5&list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Medium](https://youtu.be/cI3yMQajwCc?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Small](https://youtu.be/cbvAclaZ9bY?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) ]
 * Animation Explosion
+
+## PowerUps
+
 
 ## Map Select
 
