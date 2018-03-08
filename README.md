@@ -127,7 +127,7 @@ Others
 
 * [Wires [Power Ancle | Double Arrow | Vulcan]](https://youtu.be/oPt-hd5GKCI)
 * [Dynamite w/Animation](https://youtu.be/lA_qZQQfsKc?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ)
-* Time Watch (WIP)
+* [Time Watch](https://gaming.youtube.com/watch?v=hs7e8pQrJcI&feature=share)
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/dynamite.gif)
 ## Map Select
