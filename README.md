@@ -129,6 +129,7 @@ Others
 * [Dynamite w/Animation](https://youtu.be/lA_qZQQfsKc?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ)
 * Time Watch (WIP)
 
+![](https://github.com/vicboma1/PangGame/raw/master/assets/dynamite.gif)
 ## Map Select
 
 * Countdown to 0 seconds
