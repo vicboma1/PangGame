@@ -121,7 +121,7 @@ Others
 
 * Colors [ Red | Green | Blue ]
 * Size [ [Big](https://youtu.be/v4TbSKtIiak?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Large](https://www.youtube.com/watch?v=WwDLNYrgASA&index=5&list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Medium](https://youtu.be/cI3yMQajwCc?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) | [Small](https://youtu.be/cbvAclaZ9bY?list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ) ]
-* [Animation Explosion](https://youtu.be/Od0Ukskj8RA)
+* [Animation Explosion](https://www.youtube.com/watch?v=oBGhzFcIYrE&list=PLNph7ndeSqE8Har9dxMpCGKYLylR0RtcJ&t=0s&index=45)
 
 ## PowerUps
 
