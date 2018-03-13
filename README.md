@@ -32,6 +32,8 @@ and continue learning day to day.
   * [Collision](https://github.com/vicboma1/PangGame#collision)
   * [Newton's laws of motion](https://github.com/vicboma1/PangGame/blob/master/README.md#newtons-laws-of-motion--3-laws) 
   * [Parabolic Motion](https://github.com/vicboma1/PangGame#parabolic-motion)
+* [Bullet Physics](https://github.com/vicboma1/PangGame#bullet-physics)
+  * [Slow Motion](https://github.com/vicboma1/PangGame#slow-motion) 
 * [Profiler](https://github.com/vicboma1/PangGame#profiler)
 * [Code Behind](https://github.com/vicboma1/PangGame#code-behind)
 * [Miscellaneous](https://github.com/vicboma1/PangGame/blob/master/README.md#miscellaneous)
@@ -292,6 +294,10 @@ Based on parabolic movement with environmental factors
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion3.gif)
 
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion6.gif)
+
+## Bullet Physics
+
+### Slow Motion
 
 ## Profiler
 
