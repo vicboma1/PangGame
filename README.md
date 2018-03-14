@@ -293,8 +293,6 @@ Based on parabolic movement with environmental factors
   
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion3.gif)
 
-![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion6.gif)
-
 ## Bullet Physics
 
 ### Slow Motion (WIP)
@@ -307,9 +305,9 @@ Based on parabolic movement with environmental factors
 * [Object Pooling Pattern Single Arrow w/ Clevers - 60FPS Top](https://youtu.be/VtU7vOQTSoA)
 * [Lazy Object Pooling Pattern Double Arrow w/ Clevers - 60FPS Top](https://youtu.be/yRLtqJY1ACM)
 * [Object Pooling Pattern Ancle Gun - 75FPS TOP](https://youtu.be/WZQRrWmTqdE)
+* [PowerUps in action](https://gaming.youtube.com/watch?v=rgVttQqXFZ4&feature=share)
 
-
-![](https://github.com/vicboma1/PangGame/raw/master/assets/ObjectPoolingCleversAncleGun.gif)
+![](https://github.com/vicboma1/PangGame/raw/master/assets/powerUpsInAction.gif)
 
 
 
