@@ -307,7 +307,7 @@ Based on parabolic movement with environmental factors
 * [Object Pooling Pattern Ancle Gun - 75FPS TOP](https://youtu.be/WZQRrWmTqdE)
 * [PowerUps in action](https://gaming.youtube.com/watch?v=rgVttQqXFZ4&feature=share)
 
-![](https://github.com/vicboma1/PangGame/raw/master/assets/powerUpsInAction.gif)
+![](https://github.com/vicboma1/PangGame/blob/master/assets/PowerUpInAction.gif)
 
 
 
