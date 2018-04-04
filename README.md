@@ -248,7 +248,7 @@ MT.KEIRIN (2)
 * Circle
 * Poligon
 
-### Newton's laws of motion ( 3 laws)
+### Newton's laws of motion ( 3 laws) 
 
 * In an inertial frame of reference, an object either remains at rest or continues to move at a constant velocity, unless acted upon by a force.
 
@@ -256,7 +256,9 @@ MT.KEIRIN (2)
 
 * When one body exerts a force on a second body, the second body simultaneously exerts a force equal in magnitude and opposite in direction on the first body.
 
-### Parabolic Motion
+
+
+### Parabolic Motion (Generative recursion)
 
 Based on parabolic movement with environmental factors
 
@@ -289,7 +291,7 @@ Based on parabolic movement with environmental factors
 * Lerp (Based on Bresenham algorithm)
   * Linear
   * Bicubic
-  * Spline (WIP)
+  * Spline 
   * Stairstep (WIP - Digital Image definition)
   
 ![](https://github.com/vicboma1/PangGame/raw/master/assets/ParabolicMotion3.gif)
