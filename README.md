@@ -3,11 +3,10 @@
 ```
 Note:
 
-This is an independent game development clone from scratch without profits.
+This is an independent game development clone from scratch.
 It is a small challenge for me to develop this game of my childhood.
 Out of respect, I will not publish the game code. 
 This page will act as a visual wiki of development.
-I do not look for money or want to gain followers. 
 I want to share a single goal that is the development of games for all audiences 
 and continue learning day to day.
 ```
